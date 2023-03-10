@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atesbey-design/solCrowGithub/static/css/main.31d6cfe0.css",
+    "main.js": "/atesbey-design/solCrowGithub/static/js/main.a9ae2962.js",
+    "static/media/earth.png": "/atesbey-design/solCrowGithub/static/media/earth.e7a9f5b870a7c208f05c.png",
+    "index.html": "/atesbey-design/solCrowGithub/index.html",
+    "main.a9ae2962.js.map": "/atesbey-design/solCrowGithub/static/js/main.a9ae2962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a9ae2962.js"
+  ]
+}
